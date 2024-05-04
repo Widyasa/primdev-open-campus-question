@@ -1,7 +1,9 @@
-// Set values for height in inches and weight in pounds, then convert the values to
-// centimeters and kilos, outputting the results to the console:
-// • 1 inch is equal to 2.54 cm
-// • 2.2046 pounds is equal to 1 kilo
-// Output the results. Then, calculate and log the BMI: this is equal to weight (in kilos)
-// divided by squared height (in meters). Output the results to the console.
-// weight/(height/100*height/100)
+// Buatlah sebuah program untuk menghitung BMI (Body Mass Index) atau indeks masa tubuh
+
+// Tulis kode anda disini
+
+// Output yang Diharapkan
+// Tinggi: 180 cm
+// Berat Badan: 75 kg
+// BMI: 23.15
+// Status BMI: Berat badan normal

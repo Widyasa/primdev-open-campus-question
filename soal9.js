@@ -2,3 +2,6 @@
 // Check your list length in the console.
 // Update "Bread" to "Bananas."
 // Output your entire list to the console
+
+// Output yang Diharapkan:
+//milk, bananas, apples
